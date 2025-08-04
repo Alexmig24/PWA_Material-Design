@@ -1,0 +1,31 @@
+{
+  "name": "espenotes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server -c-1 .",
+    "dev": "live-server",
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Configuración de entornos de desarrollo para PWAs",
+  "devDependencies": {
+    "eslint": "^9.32.0",
+    "eslint-config-prettier": "^10.1.8",
+    "http-server": "^14.1.1",
+    "live-server": "^1.2.2",
+    "prettier": "^3.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexmig24/Entornos_PWAs.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Alexmig24/Entornos_PWAs/issues"
+  },
+  "homepage": "https://github.com/Alexmig24/Entornos_PWAs#readme"
+}
