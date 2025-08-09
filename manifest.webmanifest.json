@@ -6,32 +6,22 @@
   "background_color": "#1a4d80",
   "theme_color": "#1a4d80",
   "orientation": "portrait",
-  "display": "fullscreen",
+  "display": "standalone",
   "start_url":".",
   "scope": ".",
   "icons": [
     {
-      "src": "src/assets/icons/icono-144x144.png",
-      "sizes": "144x6144",
+      "src": "src/assets/icons/icon-128x128.png",
+      "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "src/assets/icons/icono-192x192.png",
-      "sizes": "192x192",
+      "src": "src/assets/icons/icon-256x256.png",
+      "sizes": "246x256",
       "type": "image/png"
     },
     {
-      "src": "src/assets/icons/icono-256x256.png",
-      "sizes": "256x256",
-      "type": "image/png"
-    },
-    {
-      "src": "src/assets/icons/icono-384x384.png",
-      "sizes": "384x384",
-      "type": "image/png"
-    },
-    {
-      "src": "src/assets/icons/icono-512x512.png",
+      "src": "src/assets/icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
