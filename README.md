@@ -2,12 +2,20 @@
 
 Quick Jot es una aplicación web progresiva (PWA) para tomar notas rápidas que funciona incluso sin conexión a internet. Desarrollada con Material Design Lite, ofrece una experiencia limpia y responsiva.
 
+## Enlace a page de QickJot
+El enlace se generó mediante GitHub Pages, para acceder y probar el funcionamiento de la PWA, puedes hacerlo meidante este enalce:
+
+```
+https://alexmig24.github.io/PWA_Material-Design/
+```
+
 ## Características principales
 
 - 📝 Crear notas con título y descripción
 - 🗑️ Eliminar notas con confirmación
 - 💾 Persistencia de datos en localStorage
 - 📱 Diseño responsivo para móviles y desktop
+- 🛜 Funcionmiento en modo Offline
 - ⚡ Funcionamiento offline (PWA)
 - 🎨 Interfaz basada en Material Design
 
@@ -16,7 +24,7 @@ Quick Jot es una aplicación web progresiva (PWA) para tomar notas rápidas que 
 - HTML5
 - CSS3
 - JavaScript (ES6)
-- [Material Design Lite](https://getmdl.io/)
+- Material Design Lite
 - Service Workers
 - Web App Manifest
 
